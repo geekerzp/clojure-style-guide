@@ -24,19 +24,19 @@
 
 ## 目录
 
-* [组织](#source-code-layout--organization)
-* [语法](#syntax)
-* [命名](#naming)
-* [集合](#collections)
-* [可变性](#mutation)
-* [字符串](#strings)
-* [异常](#exceptions)
-* [宏](#macros)
-* [注释](#comments)
-    * [注解](#comment-annotations)
-* [经验](#existential)
-* [工具](#tooling)
-* [测试](#testing)
+* [组织](#组织)
+* [语法](#语法)
+* [命名](#命名)
+* [集合](#集合)
+* [可变性](#可变性)
+* [字符串](#字符串)
+* [异常](#异常)
+* [宏](#宏)
+* [注释](#注释)
+    * [注解](#注解)
+* [经验](#经验)
+* [工具](#工具)
+* [测试](#测试)
 
 ## 组织
 
