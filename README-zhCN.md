@@ -1334,7 +1334,7 @@
   <sup>[[link](#refs-small-transactions)]</sup>
 
 * <a name="refs-avoid-short-long-transactions-with-same-ref"></a>
-  避免在同时在短时间事务和长时间事务中操作相同的 `Ref`。
+  避免同时在短时间事务和长时间事务中操作相同的 `Ref`。
   <sup>[[link](#refs-avoid-short-long-transactions-with-same-ref)]</sup>
 
 ### Agents (代理)
