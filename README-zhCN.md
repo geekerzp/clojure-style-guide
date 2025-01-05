@@ -342,7 +342,7 @@
     ```
 
 * <a name="opt-commas-in-map-literals"></a>
-  在 `map` 字面量中适当的使用括号，可以提高 `map` 的可读性。
+  在 `map` 字面量中适当的使用逗号和换行，可以提高 `map` 的可读性。
   <sup>[[link](#opt-commas-in-map-literals)]</sup>
 
     ```Clojure
